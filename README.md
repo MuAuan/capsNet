@@ -8,6 +8,6 @@ apply to cifar10
 
     capsNet_Gen_alt.py
        introduce MultiLayer before CapsuleLayer, 
-       and improving a Generator part into oudinary sequences.
+       and improving a Generator part into ordinary sequences.
 
      the val_acc achieved more than 75.5%
