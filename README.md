@@ -3,8 +3,9 @@ capsNet by keras
 
 apply to cifar10
 
-capsNet_alt.py can introduce Batch Normalization & Dropout
+    capsNet_alt.py
+       can introduce Batch Normalization & Dropout
 
-capsNet_Gen_alt.py introduce MultiLayer before inputing CapsuleLayer, 
-
-    and improving a Generator part into oudinary sequences.
+    capsNet_Gen_alt.py
+       introduce MultiLayer before inputing CapsuleLayer, 
+       and improving a Generator part into oudinary sequences.
